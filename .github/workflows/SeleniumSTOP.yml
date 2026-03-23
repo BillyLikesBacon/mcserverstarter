@@ -12,7 +12,7 @@ on:
       use_session_cache:
         description: "Use session cache"
         required: false
-        default: "false"
+        default: "true"
       start_or_stop:
         description: "start or stop"
         required: false
